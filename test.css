@@ -1,0 +1,55 @@
+.executionn
+{
+  background-color:green;
+  border-radius:15px;
+  height:40px;
+  
+}
+
+.exe2
+{
+  text-align:center;
+  padding-top:10px;
+  
+}
+
+.accordion_head
+{
+  background-color: skyblue;
+  color: white;
+  cursor: pointer;
+  font-family: arial;
+  font-size: 14px;
+  margin: 0 0 1px 0;
+  padding: 7px 11px;
+  font-weight: bold;
+  text-align:center;
+}
+
+
+.plusminus {
+  float: right;
+}
+
+
+.accordion_body {
+  background: lightgray;
+}
+/*   text-align:center;
+   */
+
+/* .accordion_body p {
+  padding: 18px 5px;
+  margin: 0px;
+} 
+ */
+
+th
+{
+  text-align:center;
+}
+
+@media (min-width: 1200px)
+.container {
+    width: auto;
+}
